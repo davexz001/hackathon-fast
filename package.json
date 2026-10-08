@@ -1,0 +1,24 @@
+{
+  "name": "hackathon-fast",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@noble/ed25519": "^2.3.0",
+    "canonicalize": "^2.1.0",
+    "lucide-react": "^0.451.0",
+    "next": "^14.2.15",
+    "pg": "^8.23.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "typescript": "7.0.2"
+  }
+}
